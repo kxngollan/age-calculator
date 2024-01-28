@@ -10,3 +10,8 @@ This code is an exercise built from Frontend Mentor, it is a very simple code to
 So I didn't have too many diffiiculties making this. It was pretty straight forward. My biggest issue was creating the initial logic tree but once complete it was quite straight forward. This is my first project using Sass
 
 ## How to start.
+
+git clone https://github.com/kxngollan/age-calculator.git
+cd age-calculator
+npm install
+npm run build
